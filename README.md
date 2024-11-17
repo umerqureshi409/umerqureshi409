@@ -119,10 +119,10 @@ Hi, I'm **Umer Qureshi** 👋, a highly motivated **Computer System Engineering 
 - **[Portfolio Website](https://umerqureshi409.github.io/Portfolio)**  
   - A personal portfolio showcasing **skills**, **projects**, and **blogs**.
 
-**[Chrome Redesigned](https://umerqureshi409.github.io/chrome-redesigned)**
+- **[Chrome Redesigned](https://umerqureshi409.github.io/chrome-redesigned)**
 - Enhanced Chrome browser interface for aesthetics and functionality, improving the user experience.
 
-**[Interactive CV](https://umerqureshi409.github.io/CV)**
+- **[Interactive CV](https://umerqureshi409.github.io/CV)**
 - Built an interactive CV with downloadable functionality using jsPDF and html2canvas.  
 
 ---
