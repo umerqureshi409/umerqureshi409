@@ -1,4 +1,4 @@
-right
+
 
 # 🌟 **Welcome to My Developer Portfolio** 👨‍💻  
 
