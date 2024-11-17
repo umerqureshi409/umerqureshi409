@@ -22,7 +22,7 @@ Hi, I'm **Umer Qureshi** 👋, a highly motivated **Computer System Engineering 
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/umer-qureshi-526118259)  
 - 📧 [**Email Me**](mailto:aa1660025@gmail.com)  
 - 📷 [**Instagram**](https://www.instagram.com/umerqureshi409) 
-- 🎥 [**YouTube Channel**](https://www.youtube.com/developerumer)  
+- 🎥 [**YouTube Channel**](https://www.youtube.com/@code-withumer)  
 
 ---
 
