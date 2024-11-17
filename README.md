@@ -113,7 +113,7 @@ Hi, I'm **Umer Qureshi** 👋, a highly motivated **Computer System Engineering 
 
 ### **Highlighted Projects**  
 
-- **[Face Recognition Attendance System](https://github.com/umerqureshi409/C--Face-Detection-Attendance-System)**  
+- **[Face Recognition Attendance System](https://github.com/umerqureshi409/CPP-Face-Detection-Attendance-System)**  
   - A **C++-based face recognition system** with a **web-accessible interface**.  
 
 - **[Portfolio Website](https://umerqureshi409.github.io/Portfolio)**  
