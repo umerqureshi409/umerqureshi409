@@ -1,4 +1,4 @@
-
+right
 
 # 🌟 **Welcome to My Developer Portfolio** 👨‍💻  
 
@@ -104,13 +104,8 @@ Hi, I'm **Umer Qureshi** 👋, a highly motivated **Computer System Engineering 
 ---
 
 ## 📈 **GitHub Stats**  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=umerqureshi409&show_icons=true&theme=radical&count_private=true" alt="
 
-GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umerqureshi409&theme=radical" alt="GitHub Streak" />
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=umerqureshi409&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=umerqureshi409&theme=radical" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerqureshi409&layout=compact&theme=radical" alt="Top Languages" /> </p>
 ---
 
 ## 💡 **Projects**  
@@ -121,6 +116,18 @@ GitHub Stats" />
   - A **C++-based face recognition system** with a **web-accessible interface**.  
 
 - **[Portfolio Website](https://umerqureshi409.github.io/Portfolio)**  
-  - A personal portfolio showcasing **skills**, **projects**, and **blogs**.  
+  - A personal portfolio showcasing **skills**, **projects**, and **blogs**.
+
+**[Chrome Redesigned]**
+Enhanced Chrome browser interface for aesthetics and functionality, improving the user experience.
+
+**[Interactive CV]**
+Built an interactive CV with downloadable functionality using jsPDF and html2canvas.  
 
 ---
+
+##🌐** Connect With Me**
+<p align="center"> <a href="https://www.linkedin.com/in/umer-qureshi-526118259" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a> <a href="https://github.com/umerqureshi409" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /></a> <a href="mailto:aa1660025@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a> </p>
+
+##💡 **Fun Fact**
+I believe in "Code, Debug, Innovate, Repeat!" 💻 and I'm always up for a coding challenge!
