@@ -35,7 +35,7 @@ Hi, I'm **Umer Qureshi** 👋, a highly motivated **Computer System Engineering 
 </a>
 
 </div>
----
+
 <div align="justify">
 
 <a href="https://www.instagram.com/umerqureshi409/">
