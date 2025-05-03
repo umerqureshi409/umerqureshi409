@@ -87,7 +87,7 @@ I'm a **Computer System Engineering Undergraduate** with a passion for building 
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack & Skills
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
