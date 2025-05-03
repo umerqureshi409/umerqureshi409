@@ -324,8 +324,8 @@ I'm a **Computer System Engineering Undergraduate** with a passion for building 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
 
 <div align="center">
-  <a href="https://github.com/umerqureshi409/CPP-Face-Detection-Attendance-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=umerqureshi409&repo=CPP-Face-Detection-Attendance-System&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
+  <a href="https://github.com/umerqureshi409/AL-QURAN-KANZUL-IMAN">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=umerqureshi409&repo=AL-QURAN-KANZUL-IMAN&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
   </a>
   <a href="https://github.com/umerqureshi409/Portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=umerqureshi409&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
