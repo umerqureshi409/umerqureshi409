@@ -327,17 +327,17 @@ I'm a **Computer System Engineering Undergraduate** with a passion for building 
   <a href="https://github.com/umerqureshi409/AL-QURAN-KANZUL-IMAN">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=umerqureshi409&repo=AL-QURAN-KANZUL-IMAN&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
   </a>
-  <a href="https://github.com/umerqureshi409/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=umerqureshi409&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
+  <a href="https://github.com/umerqureshi409/CPP-Face-Detection-Attendance-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=umerqureshi409&repo=CPP-Face-Detection-Attendance-System&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/umerqureshi409/chrome-redesigned">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=umerqureshi409&repo=chrome-redesigned&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
+  <a href="https://github.com/umerqureshi409/RealTime-Tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=umerqureshi409&repo=RealTime-Tracker&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
   </a>
-  <a href="https://github.com/umerqureshi409/cv">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=umerqureshi409&repo=cv&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
+  <a href="https://github.com/umerqureshi409/bc-management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=umerqureshi409&repo=bc-management&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
   </a>
 </div>
 
@@ -351,7 +351,7 @@ I'm a **Computer System Engineering Undergraduate** with a passion for building 
       <h3 align="center">Face Recognition Attendance System</h3>
       <p align="center">
         <a href="https://github.com/umerqureshi409/CPP-Face-Detection-Attendance-System" target="_blank">
-          <img src="https://raw.githubusercontent.com/umerqureshi409/umerqureshi409/main/project_images/face_recognition.png" width="100%" alt="Face Recognition System"/>
+          <img src="https://github.com/umerqureshi409/CPP-Face-Detection-Attendance-System/blob/main/Screenshot%202024-09-30%20182444.png" width="100%" alt="Face Recognition System"/>
         </a>
       </p>
       <p>
@@ -362,7 +362,7 @@ I'm a **Computer System Engineering Undergraduate** with a passion for building 
       <h3 align="center">Portfolio Website</h3>
       <p align="center">
         <a href="https://github.com/umerqureshi409/Portfolio" target="_blank">
-          <img src="https://raw.githubusercontent.com/umerqureshi409/umerqureshi409/main/project_images/portfolio.png" width="100%" alt="Portfolio Website"/>
+          <img src="https://github.com/umerqureshi409/Portfolio/blob/main/assets/images/portfolio.png" width="100%" alt="Portfolio Website"/>
         </a>
       </p>
       <p>
@@ -372,25 +372,25 @@ I'm a **Computer System Engineering Undergraduate** with a passion for building 
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Chrome Redesigned</h3>
+      <h3 align="center">Al Quran Kanzul Iman</h3>
       <p align="center">
-        <a href="https://github.com/umerqureshi409/chrome-redesigned" target="_blank">
-          <img src="https://raw.githubusercontent.com/umerqureshi409/umerqureshi409/main/project_images/chrome.png" width="100%" alt="Chrome Redesigned"/>
+        <a href="https://github.com/umerqureshi409/AL-QURAN-KANZUL-IMAN" target="_blank">
+          <img src="https://github.com/umerqureshi409/AL-QURAN-KANZUL-IMAN/blob/main/al-quran.png" width="100%" alt="Chrome Redesigned"/>
         </a>
       </p>
       <p>
-        <strong>HTML, CSS, JavaScript</strong> - A reimagined Chrome browser interface with enhanced aesthetics and functionality. Improves user experience with a modern design language and intuitive navigation.
+        <strong> AL-QURAN-KANZUL-IMAN</strong> is a web application that provides users with access to the Holy Quran along with the renowned Urdu translation, Kanzul Iman. 
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Interactive CV</h3>
+      <h3 align="center">Committee Management System</h3>
       <p align="center">
-        <a href="https://github.com/umerqureshi409/cv" target="_blank">
-          <img src="https://raw.githubusercontent.com/umerqureshi409/umerqureshi409/main/project_images/cv.png" width="100%" alt="Interactive CV"/>
+        <a href="https://github.com/umerqureshi409/bc-management" target="_blank">
+          <img src="https://github.com/umerqureshi409/bc-management/blob/main/bc-man.png" width="100%" alt="Interactive CV"/>
         </a>
       </p>
       <p>
-        <strong>JavaScript, HTML5, CSS3, jsPDF</strong> - An interactive digital CV with downloadable functionality using jsPDF and html2canvas. Features responsive design and dynamic content presentation.
+        <strong>JavaScript, HTML5, CSS3 </strong> - BC Management System is a modern, responsive web application designed to streamline the management of Business Committees or Contribution Groups.
       </p>
     </td>
   </tr>
