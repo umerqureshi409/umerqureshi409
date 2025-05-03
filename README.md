@@ -460,7 +460,7 @@ I'm a **Computer System Engineering Undergraduate** with a passion for building 
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/-Google_Cloud_Professional_Developer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Professional Developer" />  alt="Google Cloud Professional Developer" />
+        <img src="https://img.shields.io/badge/-Google_Cloud_Professional_Developer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Professional Developer" alt="Google Cloud Professional Developer" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/-TensorFlow_Developer_Certificate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Developer Certificate" />
@@ -481,9 +481,7 @@ I'm a **Computer System Engineering Undergraduate** with a passion for building 
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"> Coding Metrics & Contributions
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=umerqureshi409&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="70%" />
-</div>
+
 
 <div align="center">
   <img src="https://github-contribution-stats.vercel.app/api/?username=umerqureshi409&theme=tokyonight&hide_border=true" width="49%" />
