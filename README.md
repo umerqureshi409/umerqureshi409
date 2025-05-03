@@ -488,9 +488,7 @@ I'm a **Computer System Engineering Undergraduate** with a passion for building 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerqureshi409&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
 </div>
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/umerqureshi409?template=classic&isocalendar=1&languages=1&achievements=1&config.timezone=Asia%2FKarachi" width="70%" />
-</div>
+
 
 <br/>
 
