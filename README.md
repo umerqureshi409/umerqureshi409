@@ -491,7 +491,7 @@ I'm a **Computer System Engineering Undergraduate** with a passion for building 
 </div>
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/umerqureshi409?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&notable=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Asia%2FKarachi" width="70%" />
+  <img src="https://metrics.lecoq.io/umerqureshi409?template=classic&isocalendar=1&languages=1&achievements=1&config.timezone=Asia%2FKarachi" width="70%" />
 </div>
 
 <br/>
