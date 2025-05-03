@@ -72,9 +72,6 @@ I'm a **Computer System Engineering Undergraduate** with a passion for building 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Professional Timeline
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umerqureshi409&show_icons=true&theme=react" alt="Umer's GitHub Stats" width="800px" />
-</div>
 
 
 ```
