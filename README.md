@@ -20,8 +20,8 @@
   </p>
 
   <p align="center">
-    <a href="https://umerqureshi409.github.io/Portfolio">
-      <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <a href="https://umerqureshi409githubio.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
   </p>
 
