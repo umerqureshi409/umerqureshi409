@@ -73,7 +73,7 @@ I'm a **Computer System Engineering Undergraduate** with a passion for building 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Professional Timeline
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerqureshi409&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umerqureshi409&show_icons=true&theme=react" alt="Umer's GitHub Stats" width="800px" />
 </div>
 
 
@@ -87,96 +87,127 @@ I'm a **Computer System Engineering Undergraduate** with a passion for building 
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack & Skills
 
-<table align="center">
+<table>
   <tr>
     <td align="center" width="96">
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Python
-      <br><img src="https://progress-bar.dev/95/?width=100" alt="95%" />
     </td>
     <td align="center" width="96">
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
-      </a>
-      <br>JavaScript
-      <br><img src="https://progress-bar.dev/90/?width=100" alt="90%" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
     </td>
     <td align="center" width="96">
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
-      </a>
-      <br>TypeScript
-      <br><img src="https://progress-bar.dev/85/?width=100" alt="85%" />
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
-      </a>
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
-      <br><img src="https://progress-bar.dev/90/?width=100" alt="90%" />
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="48" height="48" />
-      </a>
-      <br>C#
-      <br><img src="https://progress-bar.dev/80/?width=100" alt="80%" />
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="48" height="48" />
-      </a>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
-      <br><img src="https://progress-bar.dev/85/?width=100" alt="85%" />
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>Github
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Rest API
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+      <br>Nginx
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
-      </a>
-      <br>React
-      <br><img src="https://progress-bar.dev/90/?width=100" alt="90%" />
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
     </td>
     <td align="center" width="96">
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" />
-      </a>
-      <br>REST API
-      <br><img src="https://progress-bar.dev/95/?width=100" alt="95%" />
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
-      </a>
-      <br>Docker
-      <br><img src="https://progress-bar.dev/85/?width=100" alt="85%" />
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
-      </a>
-      <br>AWS
-      <br><img src="https://progress-bar.dev/80/?width=100" alt="80%" />
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+      <br>JQuery
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
-      </a>
-      <br>GitHub
-      <br><img src="https://progress-bar.dev/95/?width=100" alt="95%" />
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+      <br>PostgreSQL
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="48" height="48" />
-      </a>
-      <br>Nginx
-      <br><img src="https://progress-bar.dev/75/?width=100" alt="75%" />
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
+      <br>ASP.NET
     </td>
   </tr>
+   <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
+      <br>RabbitMQ
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
+      <br>sentry
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
+      <br>Celery
+    </td>
+    <td align="center" width="96">
+        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
+      <br>Docusaurus
+    </td>
+    <td align="center" width="96">
+        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
+      <br>Pytest
+    </td>
+  </tr>
+ <tr>
+ </tr>
 </table>
+
 
 <details>
   <summary><b>🧰 Frameworks & Libraries</b></summary>
