@@ -351,7 +351,7 @@ I'm a **Computer System Engineering Undergraduate** with a passion for building 
       <h3 align="center">MediTrack</h3>
       <p align="center">
         <a href="https://github.com/umerqureshi409/MediTrack" target="_blank">
-          <img src="https://github.com/umerqureshi409/Portfolio/blob/main/assets/images/portfolio.png" width="100%" alt="Portfolio Website"/>
+          <img src="https://github.com/umerqureshi409/MediTrack/blob/main/images/Block-Diagram.png" width="100%" alt="Portfolio Website"/>
         </a>
       </p>
       <p>
@@ -375,7 +375,7 @@ I'm a **Computer System Engineering Undergraduate** with a passion for building 
       <h3 align="center">Adaptive Bloom Trie</h3>
       <p align="center">
         <a href="https://github.com/umerqureshi409/bc-management" target="_blank">
-          <img src="https://github.com/umerqureshi409/bc-management/blob/main/bc-man.png" width="100%" alt="Interactive CV"/>
+          <img src="https://github.com/umerqureshi409/Adaptive-Bloom-Trie/blob/main/screencapture-umerqureshi409-github-io-Adaptive-Bloom-Trie-2026-03-19-21_43_31.png" width="100%" alt="Interactive CV"/>
         </a>
       </p>
       <p>
