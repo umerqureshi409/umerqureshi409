@@ -59,7 +59,7 @@ I'm a **Computer System Engineering Undergraduate** with a passion for building 
 - 🔭 **Currently working on:** AI-powered SaaS applications and cloud-native solutions
 - 🌱 **Learning:** Advanced AI models, DevOps practices, and cloud architecture
 - 👯 **Looking to collaborate on:** Open-source projects and innovative tech solutions
-- 🎯 **2024 Goals:** 
+- 🎯 **2026 Goals:** 
   - Contribute to major open-source projects
   - Build a full-stack AI product
   - Master cloud platforms (AWS, Azure, GCP)
@@ -288,18 +288,7 @@ I'm a **Computer System Engineering Undergraduate** with a passion for building 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=umerqureshi409&theme=tokyonight&hide_border=true&background=0D1117" width="49%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerqureshi409&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="44%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umerqureshi409&theme=tokyonight" width="54%" />
-</p>
 
-<details>
-  <summary><b>🏆 GitHub Trophies</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=umerqureshi409&theme=nord&column=7&no-frame=true&margin-w=15&margin-h=15" width="100%" />
-  </p>
-</details>
 
 <details>
   <summary><b>📈 Activity Graph</b></summary>
@@ -327,17 +316,17 @@ I'm a **Computer System Engineering Undergraduate** with a passion for building 
   <a href="https://github.com/umerqureshi409/AL-QURAN-KANZUL-IMAN">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=umerqureshi409&repo=AL-QURAN-KANZUL-IMAN&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
   </a>
-  <a href="https://github.com/umerqureshi409/CPP-Face-Detection-Attendance-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=umerqureshi409&repo=CPP-Face-Detection-Attendance-System&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
+<a href="https://github.com/umerqureshi409/MediTrack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=umerqureshi409&repo=MediTrack&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/umerqureshi409/RealTime-Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=umerqureshi409&repo=RealTime-Tracker&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
+    <a href="https://github.com/umerqureshi409/CPP-Face-Detection-Attendance-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=umerqureshi409&repo=CPP-Face-Detection-Attendance-System&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
   </a>
-  <a href="https://github.com/umerqureshi409/bc-management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=umerqureshi409&repo=bc-management&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
+  <a href="https://github.com/umerqureshi409/Adaptive-Bloom-Trie">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=umerqureshi409&repo=Adaptive-Bloom-Trie&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
   </a>
 </div>
 
@@ -359,14 +348,14 @@ I'm a **Computer System Engineering Undergraduate** with a passion for building 
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Portfolio Website</h3>
+      <h3 align="center">MediTrack</h3>
       <p align="center">
-        <a href="https://github.com/umerqureshi409/Portfolio" target="_blank">
+        <a href="https://github.com/umerqureshi409/MediTrack" target="_blank">
           <img src="https://github.com/umerqureshi409/Portfolio/blob/main/assets/images/portfolio.png" width="100%" alt="Portfolio Website"/>
         </a>
       </p>
       <p>
-        <strong>HTML, CSS, JavaScript, React</strong> - A modern, responsive portfolio website showcasing my skills, projects, and professional journey. Features interactive elements, animations, and a clean, user-friendly design.
+        <strong>HTML, CSS, JavaScript, C++</strong> - MediTrack is a comprehensive IoT-based health monitoring system built on ESP32 that provides real-time tracking of vital signs including ECG waveform analysis, heart rate, blood oxygen levels, body temperature, and environmental conditions. The system features a responsive web dashboard accessible via WiFi, automatic alert generation for abnormal readings, and professional-grade cardiac rhythm analysis.
       </p>
     </td>
   </tr>
@@ -383,15 +372,14 @@ I'm a **Computer System Engineering Undergraduate** with a passion for building 
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Committee Management System</h3>
+      <h3 align="center">Adaptive Bloom Trie</h3>
       <p align="center">
         <a href="https://github.com/umerqureshi409/bc-management" target="_blank">
           <img src="https://github.com/umerqureshi409/bc-management/blob/main/bc-man.png" width="100%" alt="Interactive CV"/>
         </a>
       </p>
       <p>
-        <strong>JavaScript, HTML5, CSS3 </strong> - BC Management System is a modern, responsive web application designed to streamline the management of Business Committees or Contribution Groups.
-      </p>
+        <strong>Java</strong> - This file implements a Adaptive Bloom Trie (ABT) for phishing URL detection. It combines the strengths of tries and adaptive Bloom filters, providing a scalable, memory-efficient, and adaptive data structure for fast set membership queries, especially suited for large, evolving datasets like phishing URLs.      </p>
     </td>
   </tr>
 </table>
@@ -485,7 +473,7 @@ I'm a **Computer System Engineering Undergraduate** with a passion for building 
 
 <div align="center">
   <img src="https://github-contribution-stats.vercel.app/api/?username=umerqureshi409&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerqureshi409&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
+
 </div>
 
 
