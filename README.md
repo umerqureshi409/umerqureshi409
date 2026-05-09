@@ -236,7 +236,7 @@ CEP submission for CS-261 OS, satisfying all 9 MUET accreditation characteristic
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umerqureshi409&theme=tokyonight" width="100%" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=umerqureshi409&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6c5ce7&icon_color=00cec9" width="49%" />
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=umerqureshi409&theme=tokyonight&hide_border=true&background=0D1117&ring=6c5ce7&fire=fd79a8&currStreakLabel=6c5ce7" width="49%" /> -->
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=umerqureshi409&theme=tokyonight&hide_border=true&background=0D1117&ring=6c5ce7&fire=fd79a8&currStreakLabel=6c5ce7" width="49%" /> 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umerqureshi409&theme=tokyonight" width="31%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umerqureshi409&theme=tokyonight" width="31%" />
